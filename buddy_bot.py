@@ -5,7 +5,7 @@ import os
 
 # Load environment variables from .env file
 load_dotenv()
-OPENAI_KEY = os.getenv('OPENAI_KEY')
+OPENAI_KEY = os.getenv('OPENAI_API_KEY')
 DISCORD_TOKEN = os.getenv('TOKEN')
 
 # Initialize the OpenAI client
