@@ -1,6 +1,5 @@
+# buddybot  
 ![doggo](imgs/doggo.jpg)
-
-#buddybot  
 Discord bot that answers like a nice dog!
 
 ## .env  
