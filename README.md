@@ -1,4 +1,4 @@
-![doggo](imgs/doggo.jpeg)
+![doggo](imgs/doggo.jpg)
 
 #buddybot  
 Discord bot that answers like a nice dog!
@@ -12,13 +12,14 @@ Update the `.env` with your Discord bot token and the key from OpenAI
 To start the bot, run the following commands:
 
 ```bash
+pip install -r requirements.txt
 python discord_only.py
-pirate bot
 ```
 
-Run the following commands:
+## buddy bot
 
-````bash
+Run the following commands:
+```bash
 pip install -r requirements.txt
-python mybot.py
+python buddy_bot.py
 ```
