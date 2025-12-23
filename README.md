@@ -1,6 +1,7 @@
 # buddybot  
 ![doggo](imgs/doggo.jpg)
-Discord bot that answers like a nice dog!
+
+**Discord bot that answers like a nice dog!**
 
 ## .env  
 Update the `.env` with your Discord bot token and the key from OpenAI  
